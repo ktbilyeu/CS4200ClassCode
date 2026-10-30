@@ -150,7 +150,7 @@ See above.
 
 ------------------------------------------------------------------------------
 
-Tetra@Iolite MINGW64 ~/Documents/Repostories/Bikatr7/Mine/Schoolwork/CS4200ClassCode (main)
+Tetra@Iolite MINGW64 ~/Documents/Repostories/[personal]/Mine/Schoolwork/CS4200ClassCode (main)
 $ py homework/cache/cache_simulator.py 
 2025-04-17 16:12:13,838 - INFO - Starting cache simulation script.
 2025-04-17 16:12:13,857 - INFO - Detected OS: Windows
@@ -227,7 +227,7 @@ long       | 0.1250          | 1.0000          | 0.9998
 =================================================================
 2025-04-17 16:21:17,057 - INFO - Script finished.
 
-Tetra@Iolite MINGW64 ~/Documents/Repostories/Bikatr7/Mine/Schoolwork/CS4200ClassCode (main)
+Tetra@Iolite MINGW64 ~/Documents/Repostories/[personal]/Mine/Schoolwork/CS4200ClassCode (main)
 $ 
 
 ------------------------------------------------------------------------------
